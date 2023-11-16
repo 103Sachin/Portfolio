@@ -13,6 +13,11 @@
   </script>
   
   <style scoped>
-  /* Add your styles for the content here */
+  
+  main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
   </style>
   

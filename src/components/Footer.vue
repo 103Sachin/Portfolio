@@ -13,6 +13,16 @@
   </script>
   
   <style scoped>
-  /* Add your styles for the footer here */
+  
+  footer {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+p {
+  margin: 0;
+}
   </style>
   

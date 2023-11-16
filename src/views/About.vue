@@ -1,7 +1,7 @@
 <template>
     <section id="home">
       <h1>Sachin Singh</h1>
-      <p>Welcome to my portfolio website!</p>
+      <p>About page</p>
       <!-- Add more content as needed -->
     </section>
   </template>
@@ -9,7 +9,7 @@
   <script>
   export default {
     // Component logic goes here
-    name: 'Home-Page'
+    name: 'About-Page'
   }
   </script>
   
